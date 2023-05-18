@@ -32,3 +32,11 @@ jobs:
       uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
       with:
         arguments: build
+
+    - uses: actions/checkout@v3
+    - run: touch ./src/main/resources/application.yml
+   # - run: echo "${{ secrets.APPICATION }}" | base64 --decode > ./src/main/resources/application.yml
+    - uses: actions/upload-artifact@v2
+      with:
+        name: application.yml
+        path: ./src/main/resources/application.yml
