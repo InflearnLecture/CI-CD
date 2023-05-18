@@ -1,5 +1,5 @@
 # Develonity([Notion 링크✔️](https://gilded-fibula-776.notion.site/Develonity-23422bae15a04a9d8107d43d742264c6))
-> `Developer` + `Community` = `Develonity` 
+> `Developer` + `Community` = `Develonity`   
 >
 - **입문 & 주니어 & 시니어 개발자 모두에게 가치 있는 커뮤니티를 만들고자 했습니다.**
 - Q&A 게시판 활동(답변)을 통해 `Gift Point` 를 쌓고, 포인트로 `Gift Card` 를 살 수 있습니다.
